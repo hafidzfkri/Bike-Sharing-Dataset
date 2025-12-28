@@ -43,7 +43,9 @@ streamlit run app.py
 Jika streamlit tidak terbaca, coba:
 python -m streamlit run app.py
 ### Akses Secara Online
-`https://bike-sharing-dataset-rk7lj4xvhqx4bificwvwbd.streamlit.app/`
+```bash
+https://bike-sharing-dataset-rk7lj4xvhqx4bificwvwbd.streamlit.app/
+```
 
 ## Ringkasan Insight
 - Jam puncak rental cenderung terjadi pada jam commuting (pagi dan sore). Pola puncak lebih jelas pada workingday.
