@@ -35,7 +35,7 @@ def load_data():
 
 day_df, hour_df = load_data()
 
-st.title("🚲 Bike Sharing Dashboard")
+st.title("Bike Sharing Dashboard")
 st.caption("Ringkasan analisis dari notebook: jam puncak (workingday vs non-workingday) dan pengaruh cuaca & musim.")
 
 # ========== Sidebar Filter ==========
@@ -132,3 +132,4 @@ st.markdown("""
 - Cuaca cerah menghasilkan rata-rata rental lebih tinggi, sedangkan cuaca buruk menurunkan demand.
 - Musim memengaruhi fluktuasi rental sepanjang tahun.
 """)
+
