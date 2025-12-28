@@ -38,7 +38,7 @@ Pastikan file ini berada dalam folder yang sama:
 - day.csv,
 - hour.csv, dan
 - requirements.txt
-Jalankan:
+- Jalankan:
 streamlit run app.py
 Jika streamlit tidak terbaca, coba:
 python -m streamlit run app.py
