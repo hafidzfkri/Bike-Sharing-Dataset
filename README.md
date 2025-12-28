@@ -42,6 +42,14 @@ Pastikan file ini berada dalam folder yang sama:
 streamlit run app.py
 Jika streamlit tidak terbaca, coba:
 python -m streamlit run app.py
+### Local URL
+```bash
+http://localhost:8501
+```
+### Akses Secara Online
+```bash
+http://192.168.1.4:8501
+```
 ### Akses Secara Online
 ```bash
 https://bike-sharing-dataset-rk7lj4xvhqx4bificwvwbd.streamlit.app/
