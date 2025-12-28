@@ -34,10 +34,10 @@ Lalu run cell dari atas sampai bawah.
 
 ### 3) Menjalankan Dashboard (Streamlit)
 Pastikan file ini berada dalam folder yang sama:
-app.py,
-day.csv,
-hour.csv, dan
-requirements.txt
+- app.py,
+- day.csv,
+- hour.csv, dan
+- requirements.txt
 Jalankan:
 streamlit run app.py
 Jika streamlit tidak terbaca, coba:
