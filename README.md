@@ -51,5 +51,15 @@ python -m streamlit run app.py
 
 ## Screenshot Dashboard
 ![Dashboard Screenshot](assets/dashboard1.png)
-![Dashboard Screenshot](assets/dashboard12.png)
+![Dashboard Screenshot](assets/dashboard2.png)
 ![Dashboard Screenshot](assets/dashboard3.png)
+
+## ✅ requirements.txt 
+```txt
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+```
