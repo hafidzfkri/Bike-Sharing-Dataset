@@ -25,14 +25,14 @@ Masuk ke folder project, lalu jalankan:
 ```bash
 pip install -r requirements.txt
 ```
-2) Menjalankan Notebook
+### 2) Menjalankan Notebook
 Jalankan Jupyter:
 jupyter notebook
 Buka file notebook:
 ML_Muhammad_Hafidz_Hazimulfikri.ipynb
 Lalu run cell dari atas sampai bawah.
 
-3) Menjalankan Dashboard (Streamlit)
+### 3) Menjalankan Dashboard (Streamlit)
 Pastikan file ini berada dalam folder yang sama:
 app.py
 day.csv
