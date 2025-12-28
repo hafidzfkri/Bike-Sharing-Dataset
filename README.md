@@ -48,3 +48,8 @@ python -m streamlit run app.py
 - Pada non-workingday/libur, pola penyewaan lebih menyebar dan cenderung naik pada siang–sore (lebih banyak dipakai untuk aktivitas santai/rekreasi).
 - Cuaca memengaruhi demand: kondisi cerah menghasilkan rental lebih tinggi, sedangkan cuaca buruk menurunkan jumlah penyewaan.
 - Musim juga berpengaruh, sehingga demand naik-turun sepanjang tahun dan bisa jadi pertimbangan untuk strategi operasional/promo.
+
+## Screenshot Dashboard
+![Dashboard Screenshot](assets/dashboard1.png)
+![Dashboard Screenshot](assets/dashboard12.png)
+![Dashboard Screenshot](assets/dashboard3.png)
