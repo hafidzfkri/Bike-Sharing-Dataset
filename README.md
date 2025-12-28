@@ -46,7 +46,7 @@ python -m streamlit run app.py
 ```bash
 http://localhost:8501
 ```
-### Akses Secara Online
+### Network URL
 ```bash
 http://192.168.1.4:8501
 ```
